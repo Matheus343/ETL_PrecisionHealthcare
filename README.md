@@ -9,11 +9,18 @@
 
 ---
 
+Links colab:
+
+M1: https://colab.research.google.com/drive/1FBjuS1BQ-ZNSI_NvFUehBvU6-VHb5J0E?authuser=3#scrollTo=header-cell
+M2: https://colab.research.google.com/drive/1Z2wNnyN6vB5k-POiWkl87-ummP4SGicU?authuser=3#scrollTo=header
+M3: https://colab.research.google.com/drive/1CMX3xveM-q-yDD7vFsEJAuEIBp8E02lP?authuser=3#scrollTo=cell-knn-grid
+M4: https://colab.research.google.com/drive/1Y8LmJllZWhzxeTisGR7rr4rzpZkwYZIh?authuser=3#scrollTo=cell-load
+
 # 📌 Descrição do Projeto
 
 O **Precision Healthcare** é uma solução de análise preditiva desenvolvida para identificar pacientes com alto risco de reinternação hospitalar em até 30 dias após a alta médica.
 
-O projeto foi desenvolvido como parte do **Projeto Final de Engenharia de Computação da Faculdade Engenheiro Salvador Arena (CEFSA)** e integra conceitos de:
+O projeto integra conceitos de:
 
 - Engenharia de Dados
 - Data Warehouse & OLAP
@@ -53,8 +60,6 @@ Nosso objetivo foi prever antecipadamente esses casos e apoiar decisões clínic
 | **Analuz Marin Ramos** | ETL, Pipeline e Transformação de Dados |
 | **Matheus Xavier** | Arquitetura, OLAP e IA Generativa |
 | **Yasmin Laisa Maciel** | Machine Learning e Avaliação de Modelos |
-
-🎓 **Orientador:** Prof. Dr. Fábio Henrique Cabrini
 
 ---
 
