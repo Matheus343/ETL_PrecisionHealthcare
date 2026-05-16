@@ -12,8 +12,11 @@
 Links colab:
 
 M1: https://colab.research.google.com/drive/1FBjuS1BQ-ZNSI_NvFUehBvU6-VHb5J0E?authuser=3#scrollTo=header-cell
+
 M2: https://colab.research.google.com/drive/1Z2wNnyN6vB5k-POiWkl87-ummP4SGicU?authuser=3#scrollTo=header
+
 M3: https://colab.research.google.com/drive/1CMX3xveM-q-yDD7vFsEJAuEIBp8E02lP?authuser=3#scrollTo=cell-knn-grid
+
 M4: https://colab.research.google.com/drive/1Y8LmJllZWhzxeTisGR7rr4rzpZkwYZIh?authuser=3#scrollTo=cell-load
 
 # 📌 Descrição do Projeto
