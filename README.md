@@ -59,10 +59,10 @@ Nosso objetivo foi prever antecipadamente esses casos e apoiar decisões clínic
 
 | Integrante | Responsabilidade |
 |---|---|
-| **Adriana Monteiro Martani** | Documentação, QA e Validação Estatística |
-| **Analuz Marin Ramos** | ETL, Pipeline e Transformação de Dados |
-| **Matheus Xavier** | Arquitetura, OLAP e IA Generativa |
-| **Yasmin Laisa Maciel** | Machine Learning e Avaliação de Modelos |
+| **Adriana Monteiro Martani 082210012** | Documentação, QA e Validação Estatística |
+| **Analuz Marin Ramos 081210034** | ETL, Pipeline e Transformação de Dados |
+| **Matheus Xavier 082210042** | Arquitetura, OLAP e IA Generativa |
+| **Yasmin Laisa Maciel 082210040** | Machine Learning e Avaliação de Modelos |
 
 ---
 
